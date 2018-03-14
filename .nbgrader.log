@@ -1,0 +1,3 @@
+[ReleaseApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ReleaseApp | CRITICAL] Assignment not found: /home/faculty/yasiro01/courses/dmq-class-pub/release/./cartprod1
+[ReleaseApp | ERROR] nbgrader release failed
